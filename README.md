@@ -4,7 +4,7 @@ I'm a passionate developer from Mumbai. I love working with various technologies
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** Python, Rust, Lua
+- **Languages:** Python, Rust, Lua, Go
 - **Tools:** Neovim, Git, Node.js, React
 
 
