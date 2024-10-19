@@ -40,14 +40,6 @@
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
 </p>
 
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=darshanaware&show_icons=true&theme=radical" alt="Darshan's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshanaware&layout=compact&theme=radical" alt="Top Languages" />
-</div>
 
 ---
 
@@ -57,7 +49,3 @@
   <a href="https://www.linkedin.com/in/darshanaware/"><img src="https://img.shields.io/badge/LinkedIn-Darshan-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://x.com/dawwshan"><img src="https://img.shields.io/badge/X-@dawwshan-blue?style=for-the-badge&logo=x" alt="X"></a>
 </p>
-
----
-
-<p align="center">Thanks for visiting! 😊</p>
