@@ -12,6 +12,7 @@
   <img src="https://img.icons8.com/?size=100&id=U41Than0pWOW&format=png&color=FFFFFF" alt="Rust" style="width: 36px; margin-right: 10px;" />
   <img src="https://img.icons8.com/?size=100&id=utx96pPa33XK&format=png&color=FFFFFF" alt="Lua" style="width: 36px; margin-right: 10px;" />
   <img src="https://img.icons8.com/color/48/000000/golang.png" alt="Go" style="width: 36px; margin-right: 10px;" />
+  <img src="https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000" alt="Java" style="width: 36px; margin-right: 10px;" />
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" style="width: 36px; margin-right: 10px;" />
   <img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" alt="PostgreSQL" style="width: 36px; margin-right: 10px;" />
   <img src="https://img.icons8.com/?size=100&id=74402&format=png&color=000000" alt="MongoDB" style="width: 36px;" />
@@ -21,6 +22,7 @@
   <img src="https://img.icons8.com/?size=100&id=22801&format=png&color=228BE6" alt="Docker" style="width: 36px;" />
   <img src="https://img.icons8.com/?size=100&id=34886&format=png&color=000000" alt="Gitlab" style="width: 36px;" />
   <img src="https://img.icons8.com/?size=100&id=NTk60lqGX88D&format=png&color=228BE6" alt="Digital Ocean" style="width: 36px;" />
+  <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" alt="Spring Boot" style="width: 36px;" />
   <img src="https://img.icons8.com/?size=100&id=VoXRGxL3ekkk&format=png&color=FFFFFF" alt="AWS" style="width: 36px;" />
   <img src="https://img.icons8.com/?size=100&id=20774&format=png&color=000000" alt="Google Cloud" style="width: 36px;" />
   <img src="https://img.icons8.com/?size=100&id=cvzmaEA4kC0o&format=png&color=000000" alt="K8" style="width: 36px;" />
