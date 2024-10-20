@@ -7,7 +7,7 @@
 
 <!-- Tech Icons Section -->
 <div style="text-align: center; margin-bottom: 60px;">
-  <h2 style="font-size: 1.8rem; font-weight: 600; margin-bottom: 20px;">🔧 tech i use:</h2>
+  <h2 style="font-size: 1.8rem; font-weight: 600; margin-bottom: 20px;">⚙ tech i use:</h2>
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" style="width: 36px; margin-right: 10px;" />
   <img src="https://img.icons8.com/?size=100&id=U41Than0pWOW&format=png&color=FFFFFF" alt="Rust" style="width: 36px; margin-right: 10px;" />
   <img src="https://img.icons8.com/?size=100&id=utx96pPa33XK&format=png&color=FFFFFF" alt="Lua" style="width: 36px; margin-right: 10px;" />
@@ -25,7 +25,7 @@
 </div>
 
 <div style="text-align: center; margin-bottom: 60px;">
-  <h2 style="font-size: 1.8rem; font-weight: 600; margin-bottom: 20px;">🔧 what i'm learning:</h2>
+  <h2 style="font-size: 1.8rem; font-weight: 600; margin-bottom: 20px;">👶🏻 what i'm learning:</h2>
     <img src="https://img.icons8.com/?size=100&id=cvzmaEA4kC0o&format=png&color=000000" alt="K8" style="width: 36px;" />
 </div>
 
