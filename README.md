@@ -34,12 +34,12 @@
 <div style="text-align: center; margin-bottom: 60px;">
   <h2 style="font-size: 2rem; font-weight: 600; margin-bottom: 20px;">💬 connect with me:</h2>
   <a href="https://www.linkedin.com/in/darshanaware/" style="text-decoration: none;">
-    <img src="https://img.icons8.com/?size=100&id=8808&format=png&color=228BE6" alt="LinkedIn" style="width: 36px; margin-right: 10px;" />
+    <img src="https://img.icons8.com/?size=100&id=8808&format=png&color=228BE6" alt="LinkedIn" style="width: 28px; margin-right: 15px;" />
   </a>
   <a href="https://x.com/dawwshan" style="text-decoration: none;">
-    <img src="https://img.icons8.com/?size=100&id=110895&format=png&color=FFFFFF" alt="X" style="width: 32px; margin-right: 10px;" />
+    <img src="https://img.icons8.com/?size=100&id=110895&format=png&color=FFFFFF" alt="X" style="width: 26px; margin-right: 15px;" />
   </a>
   <a href="mailto:d.awarewdev263@gmail.com" style="text-decoration: none;">
-    <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="Gmail" style="width: 36px; margin-right: 10px;" />
+    <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="Gmail" style="width: 28px; margin-right: 15px;" />
   </a>
 </div>
