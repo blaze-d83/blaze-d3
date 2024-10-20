@@ -17,6 +17,7 @@
   <img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" alt="PostgreSQL" style="width: 36px; margin-right: 10px;" />
   <img src="https://img.icons8.com/?size=100&id=fOhLNqGJsUbJ&format=png&color=000000" alt="Apache Kafka" style="width: 36px; margin-right: 10px;" />
   <img src="https://img.icons8.com/?size=100&id=74402&format=png&color=000000" alt="MongoDB" style="width: 36px;" />
+  <img src="https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000" alt="TailwindCSS" style="width: 36px;" />
   <img src="https://img.icons8.com/?size=100&id=FQlr_bFSqEdG&format=png&color=FFFFFF" alt="Node.js" style="width: 36px; margin-right: 10px;" />
   <img src="https://img.icons8.com/ultraviolet/40/000000/react.png" alt="React" style="width: 36px; margin-right: 10px;" />
   <img src="https://img.icons8.com/?size=100&id=39854&format=png&color=FAB005" alt="Javascript" style="width: 36px; margin-right: 10px;" />
