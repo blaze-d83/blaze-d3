@@ -25,7 +25,7 @@
 </div>
 
 <div style="text-align: center; margin-bottom: 60px;">
-  <h2 style="font-size: 1.8rem; font-weight: 600; margin-bottom: 20px;">🔧 what i'm learning next:</h2>
+  <h2 style="font-size: 1.8rem; font-weight: 600; margin-bottom: 20px;">🔧 what i'm learning:</h2>
     <img src="https://img.icons8.com/?size=100&id=cvzmaEA4kC0o&format=png&color=000000" alt="K8" style="width: 36px;" />
 </div>
 
