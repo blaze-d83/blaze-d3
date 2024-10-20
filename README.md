@@ -20,13 +20,10 @@
   <img src="https://img.icons8.com/?size=100&id=39854&format=png&color=FAB005" alt="Javascript" style="width: 36px; margin-right: 10px;" />
   <img src="https://img.icons8.com/?size=100&id=22801&format=png&color=228BE6" alt="Docker" style="width: 36px;" />
   <img src="https://img.icons8.com/?size=100&id=34886&format=png&color=000000" alt="Gitlab" style="width: 36px;" />
+  <img src="https://img.icons8.com/?size=100&id=NTk60lqGX88D&format=png&color=228BE6" alt="Digital Ocean" style="width: 36px;" />
   <img src="https://img.icons8.com/?size=100&id=VoXRGxL3ekkk&format=png&color=FFFFFF" alt="AWS" style="width: 36px;" />
   <img src="https://img.icons8.com/?size=100&id=20774&format=png&color=000000" alt="Google Cloud" style="width: 36px;" />
-</div>
-
-<div style="text-align: center; margin-bottom: 60px;">
-  <h2 style="font-size: 1.8rem; font-weight: 600; margin-bottom: 20px;">👶🏻 what i'm learning:</h2>
-    <img src="https://img.icons8.com/?size=100&id=cvzmaEA4kC0o&format=png&color=000000" alt="K8" style="width: 36px;" />
+  <img src="https://img.icons8.com/?size=100&id=cvzmaEA4kC0o&format=png&color=000000" alt="K8" style="width: 36px;" />
 </div>
 
 <!-- Connect with me Section -->
